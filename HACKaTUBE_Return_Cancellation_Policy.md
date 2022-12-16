@@ -23,9 +23,9 @@ Goods refer to the items offered for sale on the Service.
 
 Orders mean a request by You to purchase Goods from Us.
 
-Service refers to the Website.
+Service refers to the App.
 
-Website refers to My Site, accessible from https://play.google.com/store/apps/details?id=com.TheComputerMind.android
+APP refers to My App, accessible from [https://play.google.com/store/apps/details?id=com.TheComputerMind.android](https://play.google.com/store/apps/details?id=com.TheComputerMind.android)
 
 You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
